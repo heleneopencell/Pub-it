@@ -48,7 +48,7 @@ const LandingPage = () => {
     <div className="landing-page">
       <h1 className="title">Pub-it</h1>
       <p className="subtitle">
-        Track your community's latest papers and spot the top ones each month.
+        Tracks your community's latest papers, collaborations and spot the most cited ones.
       </p>
 
       <div className="actions-grid">

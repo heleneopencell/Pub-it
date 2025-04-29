@@ -1,14 +1,11 @@
 # Pub-it
 
-A Python application that tracks publications from Cambridge University researchers, fetches citation counts, and generates audio podcasts from the papers.
+A Python application that tracks your community's latest papers, collaborations and spots the most cited.
 
 ## Features
 
-- Tracks publications from specified researchers using their ORCID IDs
+- Tracks publications from specified researchers using their ORCID IDs, name and affiliation
 - Fetches citation counts from Google Scholar
-- Generates audio podcasts from papers using Illuminate.ai
-- Automatically processes papers from the previous month
-- Trims and optimizes generated podcasts
 
 ## Project Structure
 
